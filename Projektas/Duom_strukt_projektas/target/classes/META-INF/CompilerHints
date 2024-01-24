@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,Tests/Benchmark$BenchmarkTest.fillArraySet
+inline,Tests/Benchmark$BenchmarkTest.fillLinkedListSet
+inline,Tests/Benchmark$BenchmarkTest.generateElements
+inline,Tests/Benchmark.getLastArray
+inline,Tests/Benchmark.getLastLinkedList
