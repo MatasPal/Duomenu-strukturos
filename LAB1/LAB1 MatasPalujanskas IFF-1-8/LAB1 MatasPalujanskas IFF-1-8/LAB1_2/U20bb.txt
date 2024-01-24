@@ -1,0 +1,7 @@
+Jonauskas;Jonas;Raudonas;54;154
+Kestauskas;Kestas;Melynas;55;123
+Mantauskas;Mantas;Juodas;10;666
+Paulinaite;Paulina;Zalias;89;100
+Linauskas;Linas;Violetinis;37;452
+Onaite;Ona;Oranz;12;122
+Jonauskas;Juonis;Raudonas;63;123

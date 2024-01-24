@@ -1,0 +1,54 @@
+Pradiniai pašto ženklų duomenys:
+-------------------------------------------------------
+| Pavadinimas     | Išleidimo data  | Vidutinė kaina  |
+-------------------------------------------------------
+| Melynas         |            1995 |           123.0 |
+| Raudonas        |            1995 |           154.0 |
+| Juodas          |            2005 |           117.0 |
+| Pilkas          |            2005 |           111.0 |
+| Zalias          |            2005 |           625.0 |
+| Violetinis      |            2005 |           117.0 |
+-------------------------------------------------------
+
+Pradiniai kolekcionierių duomenys:
+------------------------------------------------------------------------------------------------------------------------
+| Pavardė              | Vardas               | Pavadinimas              | Kiekis               | Pardavimo kaina      |
+------------------------------------------------------------------------------------------------------------------------
+| Jonauskas            | Jonas                | Raudonas                 |                   54 |                154.0 |
+| Kestauskas           | Kestas               | Melynas                  |                   55 |                123.0 |
+| Mantauskas           | Mantas               | Juodas                   |                   10 |                666.0 |
+| Paulinaite           | Paulina              | Zalias                   |                   89 |                100.0 |
+| Linauskas            | Linas                | Violetinis               |                   37 |                452.0 |
+| Onaite               | Ona                  | Oranz                    |                   12 |                122.0 |
+| Jonauskas            | Juonis               | Raudonas                 |                   63 |                123.0 |
+------------------------------------------------------------------------------------------------------------------------
+
+Populiariausi pasto zenklai:
+-------------------------------------------------------
+| Pavadinimas     | Išleidimo data  | Vidutinė kaina  |
+-------------------------------------------------------
+| Raudonas        |            1995 |           154.0 |
+-------------------------------------------------------
+
+Kolekcionieriai, kurie neturi populiariausio pašto ženklo:
+------------------------------------------------------------------------------------------------------------------------
+| Pavardė              | Vardas               | Pavadinimas              | Kiekis               | Pardavimo kaina      |
+------------------------------------------------------------------------------------------------------------------------
+| Jonauskas            | Jonas                | Raudonas                 |                   54 |                154.0 |
+| Kestauskas           | Kestas               | Melynas                  |                   55 |                123.0 |
+| Mantauskas           | Mantas               | Juodas                   |                   10 |                666.0 |
+| Paulinaite           | Paulina              | Zalias                   |                   89 |                100.0 |
+| Linauskas            | Linas                | Violetinis               |                   37 |                452.0 |
+| Onaite               | Ona                  | Oranz                    |                   12 |                122.0 |
+| Jonauskas            | Juonis               | Raudonas                 |                   63 |                123.0 |
+------------------------------------------------------------------------------------------------------------------------
+
+Kolekcionieriai, kurie turi nurodytos datos pašto ženklų:
+------------------------------------------------------------------------------------------------------------------------
+| Pavardė              | Vardas               | Pavadinimas              | Kiekis               | Pardavimo kaina      |
+------------------------------------------------------------------------------------------------------------------------
+| Kestauskas           | Kestas               | Melynas                  |                   55 |                123.0 |
+| Jonauskas            | Jonas                | Raudonas                 |                   54 |                154.0 |
+| Jonauskas            | Juonis               | Raudonas                 |                   63 |                123.0 |
+------------------------------------------------------------------------------------------------------------------------
+

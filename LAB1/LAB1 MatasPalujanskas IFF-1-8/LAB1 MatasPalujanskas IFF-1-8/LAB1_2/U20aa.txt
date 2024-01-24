@@ -1,0 +1,6 @@
+Melynas;1995;123
+Raudonas;1995;154
+Juodas;2005;117
+Pilkas;2005;111
+Zalias;2005;625
+Violetinis;2005;117

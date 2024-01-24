@@ -1,0 +1,7 @@
+Jonauskas;Jonas;Raudonas;54;154
+Kęstauskas;Kęstas;Mėlynas;55;123
+Mantauskas;Mantas;Žalias;10;666
+Paulinaitė;Paulina;Žalias;89;100
+Linauskas;Linas;Violetinis;37;452
+Onaitė;Ona;Mėlynas;12;122
+Jonauskas;Juonis;Raudonas;63;123
