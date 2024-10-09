@@ -1,27 +1,27 @@
-# Duomenų struktūros
+# Data Structures
 
-## Aprašymas
+## Description
 
-Šis repozitorija skirta **Duomenų struktūrų** modulio laboratoriniams darbams, atliktiems KTU studijų metu. Modulyje nagrinėjamos įvairios duomenų struktūros ir jų efektyvumo analizė, taip pat praktinis jų taikymas sprendžiant algoritmines problemas.
+This repository is dedicated to the **Data Structures** module's laboratory work, completed during studies at KTU. The module covers various data structures and their efficiency analysis, as well as their practical application in solving algorithmic problems.
 
-## Turinys
+## Content
 
-Laboratoriniuose darbuose aptariamos ir įgyvendinamos šios duomenų struktūros:
+The laboratory work covers and implements the following data structures:
 
-- **Sąrašai (List)**
-- **Stekai (Stack) ir eilės (Queue)**
-- **Medžiai (Trees), pvz., dvejetainiai paieškos medžiai (BST)**
-- **Maišos lentelės (Hash Tables)**
-- **Grafai (Graphs)**
-- **Rikiavimo algoritmai ir jų efektyvumas**
-- **Dvikryptės eilės (Deque)**
+- **Lists**
+- **Stacks and Queues**
+- **Trees, e.g., Binary Search Trees (BST)**
+- **Hash Tables**
+- **Graphs**
+- **Sorting algorithms and their efficiency**
+- **Deques**
 
-Kiekviename kataloge pateikiami teoriniai uždaviniai, jų sprendimai bei kodai, naudojant šias duomenų struktūras.
+Each directory contains theoretical exercises, their solutions, and code implementing these data structures.
 
-## Naudotos technologijos
+## Technologies Used
 
-Laboratoriniai darbai buvo atliekami naudojant šias technologijas:
+The laboratory work was conducted using the following technologies:
 
-- **Programavimo kalba:** Java
+- **Programming Language:** Java
 - **IDE:** IntelliJ IDEA
-- **Git:** Repozitorijų valdymui ir versijų kontrolei
+- **Git:** For repository management and version control.
